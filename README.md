@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yasser! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Yasser! <br/> <a href="https://www.linkedin.com/in/yasserelfahli/">Economist</a>,<a href="https://github.com/yassirelfahli">Data Analyst</a>, <a href="https://www.youtube.com/c/yasserelfahli">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
