@@ -8,11 +8,11 @@
 <h2>📜 Certification : </h2>
 
 - <b>Google digital marketing</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]()
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [How to get into Economics career Starting From Zero]()
 
 <h2> 🤳 Connect with me:</h2>
 
