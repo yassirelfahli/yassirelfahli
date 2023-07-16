@@ -8,7 +8,7 @@
 <h2>📜 Certification : </h2>
 
 - <b>Google digital marketing</b>
-  - [Praciting DS & Algos in Python]()
+  - [Certificate]()
 
 <h2>📺 Popular YouTube Videos</h2>
 
